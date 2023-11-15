@@ -2,37 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "What is consensus algorithm ?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A method to optimize database queries in a centralized server",
+        "b": "A technique used to improve the graphics rendering speed in video games",
+        "c": "An algorithm to achieve agreement on data value or state across a distributed system or network.",
+        "d": "A set of rules to enhance audio quality in music streaming services."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "what is proof of work?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "A method to track and record employee attendance in companies",
+        "b": "A certification provided after completing a professional course or workshop",
+        "c": "A consensus algorithm in which participants must perform computationally intensive tasks to validate and record transactions in a blockchain network",
+        "d": "A technique used by artists to prove the authenticity of their artwork."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+
+      "question": "what is proof of stake?",
+      "answers": {
+        "a": "A method used by banks to validate the financial assets or holdings of an individual or corporation",
+        "b": "A consensus algorithm in which individuals can create and validate new blocks in a blockchain based on the number of coins they hold and are willing to stake or lock up.",
+        "c": "A certification proving ownership of a piece of real estate or property.",
+        "d": "An auditing procedure to verify the stock inventory of a retail business."
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

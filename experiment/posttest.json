@@ -2,37 +2,38 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "In the context of blockchain, what is the primary objective of a consensus mechanism?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Data encryption for secure transmission.",
+        "b": "Verifying the identity of users.",
+        "c": " Ensuring all nodes agree on the validity and order of transactions.",
+        "d": " Enhancing the speed of transactions."
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "a",
+      
+      "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Which of the following best describes the primary function of the Proof of Work consensus mechanism in blockchain networks like Bitcoin?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Validators are chosen based on the number of coins they pledge as collateral.",
+        "b": "Transactions are approved through a voting mechanism based on coin ownership.",
+        "c": "Participants must complete specific computational challenges to validate and add new blocks.",
+        "d": "Validators are pre-selected based on their reputation and identity"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+      
       "correctAnswer": "c",
+      "difficulty": "beginner"
+    },{
+      "question": "In a Proof of Stake blockchain consensus mechanism, how are validators typically chosen to create a new block?",
+      "answers": {
+        "a": "By solving complex cryptographic puzzles first.",
+        "b": "Based on the number of coins they commit as collateral.",
+        "c": "Based on a rotational system where every node gets a turn.",
+        "d": "Through a voting system where nodes vote for their favorite validator."
+      },
+      
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
   ]

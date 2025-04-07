@@ -2,36 +2,67 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "What is consensus algorithm ?",
+      "question": "Why do blockchain networks need a consensus algorithm?",
       "answers": {
-        "a": "A method to optimize database queries in a centralized server",
-        "b": "A technique used to improve the graphics rendering speed in video games",
-        "c": "An algorithm to achieve agreement on data value or state across a distributed system or network.",
-        "d": "A set of rules to enhance audio quality in music streaming services."
+        "a": "To allow only one person to control the network",
+        "b": "To randomly delete old transactions",
+        "c": "To ensure that all participants agree on the current state of the ledger",
+        "d": "To convert transactions into audio files"
       },
-      
       "correctAnswer": "c",
       "difficulty": "beginner"
     },
     {
-      "question": "what is proof of work?",
+      "question": "Which of the following is TRUE about decentralized systems?",
       "answers": {
-        "a": "A method to track and record employee attendance in companies",
-        "b": "A certification provided after completing a professional course or workshop",
-        "c": "A consensus algorithm in which participants must perform computationally intensive tasks to validate and record transactions in a blockchain network",
-        "d": "A technique used by artists to prove the authenticity of their artwork."
+        "a": "Only one central authority verifies all transactions",
+        "b": "Multiple participants work together without a central authority",
+        "c": "Transactions are kept secret and never verified",
+        "d": "They work without the need for validation"
       },
-      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main role of miners in Proof of Work?",
+      "answers": {
+        "a": "To watch and comment on transactions",
+        "b": "To create usernames for blockchain users",
+        "c": "To solve mathematical problems to validate transactions and add new blocks",
+        "d": "To transfer data from blockchain to cloud storage"
+      },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    },{
-
-      "question": "what is proof of stake?",
+    },
+    {
+      "question": "What does a validator do in Proof of Stake?",
       "answers": {
-        "a": "A method used by banks to validate the financial assets or holdings of an individual or corporation",
-        "b": "A consensus algorithm in which individuals can create and validate new blocks in a blockchain based on the number of coins they hold and are willing to stake or lock up.",
-        "c": "A certification proving ownership of a piece of real estate or property.",
-        "d": "An auditing procedure to verify the stock inventory of a retail business."
+        "a": "Deletes unnecessary blocks from the chain",
+        "b": "Validates new blocks based on the amount of cryptocurrency staked",
+        "c": "Changes the blockchain rules regularly",
+        "d": "Encrypts user passwords for security"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which consensus algorithm is generally considered more energy-efficient?",
+      "answers": {
+        "a": "Proof of Work",
+        "b": "Proof of Stake",
+        "c": "Proof of Activity",
+        "d": "Proof of Time"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In blockchain, what is a ‘block’?",
+      "answers": {
+        "a": "A video file stored in the cloud",
+        "b": "A digital file that contains a group of verified transactions",
+        "c": "A piece of hardware connected to the server",
+        "d": "A program that locks user accounts"
       },
       "correctAnswer": "b",
       "difficulty": "beginner"

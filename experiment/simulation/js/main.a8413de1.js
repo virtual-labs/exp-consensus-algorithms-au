@@ -102331,7 +102331,7 @@
             i = n[0],
             a = n[1],
             o = rt(),
-            s = i ? "Proof of Work" : "Proof of Stake",
+            s = i ? "Proof of Stake" : "Proof of Work",
             l = {
               background: i
                 ? "url('/path-to-your-background-image.jpg')"

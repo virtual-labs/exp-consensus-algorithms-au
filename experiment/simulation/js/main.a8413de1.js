@@ -26611,19 +26611,19 @@
             candidatesList: [
               {
                 id: 1,
-                name: "Amit Trivedi",
+                name: "Amit Trivedi (Green Future Party)",
                 checks: [!0, !0, !0],
                 verified: !0,
               },
               {
                 id: 2,
-                name: "Vikram Patel",
+                name: "Vikram Patel (Technological Party)",
                 checks: [!0, !0, !0],
                 verified: !0,
               },
               {
                 id: 3,
-                name: "Geeta Jeeva",
+                name: "Geeta Jeeva (Cultural Party)",
                 checks: [!0, !0, !0],
                 verified: !0,
               },

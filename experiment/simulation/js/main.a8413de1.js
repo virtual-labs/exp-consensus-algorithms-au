@@ -89011,7 +89011,7 @@
           }),
         });
       }
-      var iR = n.p + "images/step1.d47898d4c5d82d956ea8f3e3edba827f.svg";
+      var iR = n.p + "images/step1.svg";
       function rR(e) {
         return (0, ae.Z)("MuiCircularProgress", e);
       }
@@ -89676,7 +89676,7 @@
             ],
           });
         };
-      var ZR = n.p + "images/Step4.f57233f6e87fe7c4b93e8d93f536dda5.svg",
+      var ZR = n.p + "images/Step4.svg",
         wR = function (e) {
           var n = e.onContinueClick,
             i = (0, t.useState)(!1),
@@ -89838,7 +89838,7 @@
             ],
           });
         };
-      var SR = n.p + "images/step5.f65740f685de4f314e80538d687b47cc.svg",
+      var SR = n.p + "images/step5.svg",
         RR = function (e) {
           var n = e.onContinueClick,
             i = (0, t.useState)(!1),

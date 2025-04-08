@@ -88909,7 +88909,7 @@
             (0, K.jsxs)("div", {
               style: { color: "white", marginLeft: "20px" },
               children: [
-                (0, K.jsx)("h4", { children: "Candidate verificarion Status" }),
+                (0, K.jsx)("h4", { children: "Candidate verification Status" }),
                 t.map(function (e) {
                   return (0,
                   K.jsxs)("div", { children: [(0, K.jsx)("p", { children: e.name }), (0, K.jsx)("p", { children: e.verified ? (0, K.jsx)("span", { style: { color: "green" }, children: "Candidate is verified for the election process" }) : (0, K.jsx)("span", { style: { color: "red" }, children: "Candidate is not verified for the election process" }) })] }, e.id);

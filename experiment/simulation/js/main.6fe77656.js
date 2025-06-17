@@ -26724,7 +26724,7 @@
                             alignItems: "center",
                           },
                           children: [
-                            1 === d ? "Start" : "Continue",
+                            1 === d ? "Start" : "Next",
                             (0, K.jsx)(Me.Z, {}),
                           ],
                         }),

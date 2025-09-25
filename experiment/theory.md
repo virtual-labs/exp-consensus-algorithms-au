@@ -1,4 +1,4 @@
-<h3>Theory</h3>
+
 <b><p><center>Consensus Algorithm</center></p></b>
 
 <p>

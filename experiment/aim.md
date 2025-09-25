@@ -1,10 +1,4 @@
-<u><h3>Aim of the experiment</h3></u>
+
 <p>
- The main objective of this experiment is to simulate election process through different consensus alogorithms namely proof of stake and proof of work. </p>
-
-
-
-
-
-
-
+ To demonstrate a peer-to-peer payments use case (Toy Crypto Network) by implementing and comparing blockchain consensus algorithms Proof of Work (PoW) and Proof of Stake (PoS) and determine the more efficient approach.
+</p>

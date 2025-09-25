@@ -1,4 +1,4 @@
-<h3>Procedure</h3>
+
 
 <p>In this simulation, we will explore two different consensus algorithms: Proof of Work (PoW) and Proof of Stake (PoS).</p>
 

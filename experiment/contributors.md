@@ -1,6 +1,5 @@
 <!-- Remove all lines above this line before making changes to the file -->
 
-
 ### Contributors
 
 | SNo. |        Name        |          Email           |         Institute          |

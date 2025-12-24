@@ -1,9 +1,29 @@
-
 <b><p><center>Consensus Algorithm</center></p></b>
 
 <p>
 A <b>consensus algorithm</b> is a procedure used in blockchain networks to ensure that all peers agree on the current state of the distributed ledger. It guarantees that every new block added to the blockchain is the single, agreed-upon version of the truth. Without consensus, multiple conflicting versions of the blockchain could exist.
 </p>
+<b><p><center>Block Interval</center></p></b>
+
+<p>
+<b>Block interval</b> refers to the time duration between the creation of two consecutive blocks in a blockchain network. 
+It determines how frequently new blocks are added to the blockchain.
+</p>
+
+<p>
+The block interval is controlled by the consensus algorithm and directly affects:
+<ul>
+  <li><b>Transaction confirmation speed</b></li>
+  <li><b>Network security</b></li>
+  <li><b>Scalability and throughput</b></li>
+</ul>
+</p>
+
+<p>
+For example, a shorter block interval allows faster transaction confirmations but may increase the risk of forks, 
+while a longer block interval improves stability but slows down transaction processing.
+</p>
+
 <p>
 Some of the most common consensus algorithms include:
 <br>1. Proof of Work (PoW)

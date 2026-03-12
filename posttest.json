@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "In the context of blockchain, what is the primary objective of a consensus mechanism?",
+      "answers": {
+        "a": "Data encryption for secure transmission.",
+        "b": "Verifying the identity of users.",
+        "c": " Ensuring all nodes agree on the validity and order of transactions.",
+        "d": " Enhancing the speed of transactions."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following best describes the primary function of the Proof of Work consensus mechanism in blockchain networks like Bitcoin?",
+      "answers": {
+        "a": "Validators are chosen based on the number of coins they pledge as collateral.",
+        "b": "Transactions are approved through a voting mechanism based on coin ownership.",
+        "c": "Participants must complete specific computational challenges to validate and add new blocks.",
+        "d": "Validators are pre-selected based on their reputation and identity"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In a Proof of Stake blockchain consensus mechanism, how are validators typically chosen to create a new block?",
+      "answers": {
+        "a": "By solving complex cryptographic puzzles first.",
+        "b": "Based on the number of coins they commit as collateral.",
+        "c": "Based on a rotational system where every node gets a turn.",
+        "d": "Through a voting system where nodes vote for their favorite validator."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which consensus algorithm is more energy-efficient?",
+      "answers": {
+        "a": "Proof of Work (PoW)",
+        "b": "Proof of Stake (PoS)",
+        "c": "Both consume equal energy",
+        "d": "Neither consumes energy"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is a potential drawback of the Proof of Work consensus mechanism?",
+      "answers": {
+        "a": "It is vulnerable to 51% attacks due to randomness.",
+        "b": "It discourages miner competition.",
+        "c": "It requires significant computational power and energy.",
+        "d": "It can only work on mobile networks."
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does 'staking' refer to in Proof of Stake?",
+      "answers": {
+        "a": "Storing data in blocks before linking them.",
+        "b": "Locking up a certain amount of cryptocurrency to gain validation rights.",
+        "c": "Paying transaction fees to miners.",
+        "d": "Creating new wallets for each transaction."
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

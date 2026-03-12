@@ -1,0 +1,71 @@
+{
+  "version": 2.0,
+  "questions": [
+    {
+      "question": "Why do blockchain networks need a consensus algorithm?",
+      "answers": {
+        "a": "To allow only one person to control the network",
+        "b": "To randomly delete old transactions",
+        "c": "To ensure that all participants agree on the current state of the ledger",
+        "d": "To convert transactions into audio files"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which of the following is TRUE about decentralized systems?",
+      "answers": {
+        "a": "Only one central authority verifies all transactions",
+        "b": "Multiple participants work together without a central authority",
+        "c": "Transactions are kept secret and never verified",
+        "d": "They work without the need for validation"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the main role of miners in Proof of Work?",
+      "answers": {
+        "a": "To watch and comment on transactions",
+        "b": "To create usernames for blockchain users",
+        "c": "To solve mathematical problems to validate transactions and add new blocks",
+        "d": "To transfer data from blockchain to cloud storage"
+      },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What does a validator do in Proof of Stake?",
+      "answers": {
+        "a": "Deletes unnecessary blocks from the chain",
+        "b": "Validates new blocks based on the amount of cryptocurrency staked",
+        "c": "Changes the blockchain rules regularly",
+        "d": "Encrypts user passwords for security"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Which consensus algorithm is generally considered more energy-efficient?",
+      "answers": {
+        "a": "Proof of Work",
+        "b": "Proof of Stake",
+        "c": "Proof of Activity",
+        "d": "Proof of Time"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In blockchain, what is a ‘block’?",
+      "answers": {
+        "a": "A video file stored in the cloud",
+        "b": "A digital file that contains a group of verified transactions",
+        "c": "A piece of hardware connected to the server",
+        "d": "A program that locks user accounts"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    }
+  ]
+}

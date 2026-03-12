@@ -1,4 +1,4 @@
 
 <p>
- To demonstrate a peer-to-peer payments use case (Toy Crypto Network) by implementing and comparing blockchain consensus algorithms Proof of Work (PoW) and Proof of Stake (PoS) and determine the more efficient approach.
+ To simulate and compare the functioning of two blockchain consensus algorithms Proof of Work (PoW) and Proof of Stake (PoS)  by observing their workflows, validator selection mechanisms, and block creation processes.
 </p>
